@@ -6,6 +6,9 @@ This is an experimental / sandbox repo for multiple devs to collaborate on a Dru
 After cloning the repo, create the host in MAMP like normal. 
 Add a new host with the domain name of `drupal8.local` and point the 'Document Root' to the `docroot` folder of this repo.
 
+Copy the file `docroot/sites/default/ex-settings.php` to `docroot/sites/default/settings.php`.
+
+
 ## Install Scripts
 
 
