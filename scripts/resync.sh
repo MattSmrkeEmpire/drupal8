@@ -1,11 +1,7 @@
 #!/bin/bash
 
-# Move the settings.php
-#chmod 755 sites/default
-#chmod 755 sites/default/settings.php
-#mv sites/default/settings.php sites/default/settings.tmp.php
 site_name='Development'
-db_name='drupal8db'
+db_name='drupal8_sandbox'
 
 # Install Drupal virgin version
 echo Site name will be ${site_name}

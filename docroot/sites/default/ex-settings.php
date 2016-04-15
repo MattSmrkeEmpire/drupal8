@@ -718,7 +718,7 @@ $settings['container_yamls'][] = __DIR__ . '/services.yml';
 #   include __DIR__ . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'drupal8db',
+  'database' => 'drupal8_sandbox',
   'username' => 'root',
   'password' => 'root',
   'prefix' => '',
